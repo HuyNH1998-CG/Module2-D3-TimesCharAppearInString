@@ -16,6 +16,6 @@ public class Main {
                 count++;
             }
         }
-        System.out.println("There are " + count);
+        System.out.println( X + " Appear " + count + " Time");
     }
 }
